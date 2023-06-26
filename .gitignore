@@ -1,0 +1,8 @@
+.dockerignore
+chromedriver.exe
+docker-compose.yml
+Dockerfile
+.vscode
+.pytest_cache
+venv
+courses
